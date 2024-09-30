@@ -1,6 +1,6 @@
-# Godot Engine authors
+# GNUdot / Godot Engine authors
 
-Godot Engine is developed by a community of voluntary contributors who
+GNUdot Engine is developed by a community of voluntary contributors who
 contribute code, bug reports, documentation, translations, support, etc.,
 across multiple repositories.
 
@@ -16,20 +16,28 @@ wrote which part of the codebase.
 GitHub usernames are indicated in parentheses, or as sole entry when no other
 name is available.
 
-## Project Founders
+## GNUdot Engine Authors
+
+### Project Founders
+
+    Kaydax
+
+## Godot Engine Authors
+
+### Project Founders
 
     Juan Linietsky (reduz)
     Ariel Manzur (punto-)
 
-## Lead Developer
+### Lead Developer
 
     Juan Linietsky (reduz)
 
-## Project Manager
+### Project Manager
 
     Rémi Verschelde (akien-mga)
 
-## Developers
+### Developers
 
     Aaron Franke (aaronfranke)
     Aaron Pagano (aaronp64)
