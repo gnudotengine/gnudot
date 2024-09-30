@@ -16,28 +16,36 @@ wrote which part of the codebase.
 GitHub usernames are indicated in parentheses, or as sole entry when no other
 name is available.
 
-## GNUdot Engine Authors
-
-### Project Founders
+## GNUdot Project Founders
 
     Kaydax
 
-## Godot Engine Authors
+## GNUdot Lead Developer
 
-### Project Founders
+    Kaydax
+
+## GNUdot Project Manager
+
+    Kaydax
+
+## GNUdot Developers
+
+    Kaydax
+
+## Godot Project Founders
 
     Juan Linietsky (reduz)
     Ariel Manzur (punto-)
 
-### Lead Developer
+## Godot Lead Developer
 
     Juan Linietsky (reduz)
 
-### Project Manager
+## Godot Project Manager
 
     Rémi Verschelde (akien-mga)
 
-### Developers
+## Godot Developers
 
     Aaron Franke (aaronfranke)
     Aaron Pagano (aaronp64)

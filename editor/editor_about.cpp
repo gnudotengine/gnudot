@@ -237,16 +237,25 @@ EditorAbout::EditorAbout() {
 	// Authors.
 
 	List<String> dev_sections;
-	dev_sections.push_back(TTR("Project Founders"));
-	dev_sections.push_back(TTR("Lead Developer"));
+	dev_sections.push_back(TTR("GNUdot Project Founders"));
+	dev_sections.push_back(TTR("GNUdot Lead Developer"));
 	// TRANSLATORS: This refers to a job title.
-	dev_sections.push_back(TTR("Project Manager", "Job Title"));
-	dev_sections.push_back(TTR("Developers"));
+	dev_sections.push_back(TTR("GNUdot Project Manager", "Job Title"));
+	dev_sections.push_back(TTR("GNUdot Developers"));
+	dev_sections.push_back(TTR("Godot Project Founders"));
+	dev_sections.push_back(TTR("Godot Lead Developer"));
+	// TRANSLATORS: This refers to a job title.
+	dev_sections.push_back(TTR("Godot Project Manager", "Job Title"));
+	dev_sections.push_back(TTR("Godot Developers"));
 	const char *const *dev_src[] = {
-		AUTHORS_FOUNDERS,
-		AUTHORS_LEAD_DEVELOPERS,
-		AUTHORS_PROJECT_MANAGERS,
-		AUTHORS_DEVELOPERS,
+		GNUDOT_AUTHORS_FOUNDERS,
+		GNUDOT_AUTHORS_LEAD_DEVELOPERS,
+		GNUDOT_AUTHORS_PROJECT_MANAGERS,
+		GNUDOT_AUTHORS_DEVELOPERS,
+		GODOT_AUTHORS_FOUNDERS,
+		GODOT_AUTHORS_LEAD_DEVELOPERS,
+		GODOT_AUTHORS_PROJECT_MANAGERS,
+		GODOT_AUTHORS_DEVELOPERS,
 	};
 	tc->add_child(_populate_list(TTR("Authors"), dev_sections, dev_src, 0b1)); // First section (Project Founders) is always one column.
 
